@@ -1,4 +1,4 @@
-# ECG_JEPA2 (under developing)
+# ECG_JEPA2 (under development)
 
 Welcome to the repository for **ECG-JEPA 2.0**, the enhanced version of the original [ECG-JEPA](https://github.com/sehunfromdaegu/ECG_JEPA). This repository showcases advancements in the model, offering better performance and efficiency tailored to 12-lead ECG analysis.
 
